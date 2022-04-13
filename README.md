@@ -41,7 +41,7 @@ Still, you are welcome to make your suggestions via PR...
 - 6b Professional Relationships and Communication https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#6b-professional-relationships-and-communication
 - 7 Summary https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#7-summary
 
-# 1a The 10 Golden Rules, Bullet Points
+# 1 The 10 Golden Rules (Detailed Explanations for Each Below)
 
 *Please keep in mind these "golden rules" are dense and terse.*  
 *If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.* 
