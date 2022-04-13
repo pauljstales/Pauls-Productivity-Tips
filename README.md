@@ -132,15 +132,16 @@ Still, you are welcome to make your suggestions via PR...
 # 6a Personal Relationships and Communication
 
 1. **Take/Give Less Advice**: before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
-2. **Be Skeptical of Words over Deliverables**: anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
-3. **Have Deliverables in Hand for Mentorship**: finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
-4. **Create/Find the High Standard Team**: the team’s highest standard is the lowest performance allowed to exist; raise the bar if the team fails to meet it, consider moving on
-5. **Focus on Committing, Not Consensus**: the entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
+2. **Remain Yourself**: you cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
+
+4. **Have Deliverables in Hand for Mentorship**: finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
+5. **Create/Find the High Standard Team**: the team’s highest standard is the lowest performance allowed to exist; raise the bar if the team fails to meet it, consider moving on
+6. **Focus on Committing, Not Consensus**: the entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
 
 # 6b Professional Relationships and Communication
 
 1. **You Owe Nothing, Say Nothing**: when discussions becomes arguments, when demands (sometimes contradictory) are made of you, remember that you owe nothing, not even a response - stay silent, move on, maintain inner peace (if you MUST respond, say “That is a good perspective”, and nothing more)
-2. **Remain Yourself**: you cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
+2. **Be Skeptical of Words over Deliverables**: anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
 3. **Channel Energy Inwards**: anger and hatred would be far less if it cost money rather than just time; channel that energy into self-improvement rather than revenge
 4. **Make/Break Friendships**: make friends who those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends who anyone who does the opposite (you are the average of your friends)
 5. **Stay Positive with Good Friends**: show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
