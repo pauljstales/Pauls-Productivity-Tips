@@ -1,50 +1,55 @@
 # Paul's Productivity Tips
 
-A collection of the wisdom I have received over the years, condensed into actionable advice. 
+A collection of the wisdom I have received over the years, condensed into actionable advice.
 
-# Introduction
-Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.  
-I hope this helps you... and I hope it helps me! Feel free to share this link.  
-If you liked this advice and wish to chat, you can always find me on twitter at https://twitter.com/pauljstales.  
+## Introduction
+Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.
+I hope this helps you... and I hope it helps me! Feel free to share this link.
+If you liked this advice and wish to chat, you can always find me on twitter at [@pauljstales](https://twitter.com/pauljstales).
 
-# Purpose of this Document
-The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).  
-It starts off with some dense, terse "golden rules".   
+## Purpose of this Document
+The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).
+It starts off with some dense, terse "golden rules."
 Further chapters are dedicated to expanding on those rules and the sub-principles behind them.
 
 Not all of this advice is for everyone.  
-Some advice will be disagreeable to those who hold different values and beliefs.  
-That is okay! We can all disagree and remain friendly.
+Some advice will be disagreeable to those who hold different values and beliefs.
+That is okay! We can disagree and remain friendly.
 
-# The First Piece of Advice - One Thing at a Time...
-But, before you start, please read the most important advice of all..  
-DO NOT try to do everything at once, you will quickly get overwhelmed!   
+## The First Piece of Advice: One Thing at a Time...
+But, before you start, please read the most important advice of all...
+DO NOT try to do everything at once, you will quickly get overwhelmed!
 As the advice mentions many times - focus, do one thing at a time, and worry about completion!
 
-# Want to Contribute?
-I welcome all and any pull requests.  
-But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.  
-Still, you are welcome to make your suggestions via PR...
+## Want to Contribute?
+I welcome all and any pull requests.
+But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.
+Still, you are welcome to make your suggestions via PR.
 
-# Table of Contents
-- 1 The 10 Golden Rules, Bullet Points https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#1a-the-10-golden-rules-bullet-points
-- 2a Improving your State of Mind by Removing Negatives https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#2a-improving-your-state-of-mind-by-removing-negatives
-- 2b Improving your State of Mind by Embracing Positives https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#2b-improving-your-state-of-mind-by-embracing-positives
-- 3a Preparing for Action by Making a Productive Environment https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#3a-preparing-for-action-by-making-a-productive-environment
-- 3b Preparing for Action by Managing Time https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#3b-preparing-for-action-by-managing-time
-- 3c Preparing for Action by Stopping Procrastination https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#3c-preparing-for-action-by-stopping-procrastination
-- 4a Taking Action via Learning https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#4a-taking-action-via-learning
-- 4b Taking Action via Applying https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#4b-taking-action-via-applying
-- 5a Personal Tracking/Analysis/Adjustments https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#5a-personal-trackinganalysisadjustments
-- 5b Professional Tracking/Analysis/Adjustments https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#5b-professional-trackinganalysisadjustments
-- 6a Personal Relationships and Communication https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#6a-personal-relationships-and-communication
-- 6b Professional Relationships and Communication https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#6b-professional-relationships-and-communication
-- 7 Summary https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#7-summary
+## Table of Contents
+1. [The 10 Golden Rules, Bullet Points](#the-10-golden-rules-bullet-points)
+2. [Improving your State of Mind](#improving-your-state-of-mind)
+    1. [Removing Negatives](#removing-negatives)
+    2. [Embracing Positives](#embracing-positives)
+3. [Preparing for Action](#preparing-for-action)
+    1. [Making a Productive Environment](#making-a-productive-environment)
+    2. [Managing Time](#managing-time)
+    3. [Stopping Procrastination](#stopping-procrastination)
+4. [Taking Action](#taking-action)
+    1. [Learning](#learning)
+    2. [Applying](#applying)
+5. [Tracking, Analysis, and Adjustments](#tracking-analysis-and-adjustments)
+    1. [Personal Goals](#personal-goals)
+    2. [Professional Goals](#professional-goals)
+6. [Relationships and Communication](#relationships-and-communication)
+    1. [Personal](#personal)
+    2. [Professional](#professional)
+7. [Summary](#summary)
 
-# 1 The 10 Golden Rules (Detailed Explanations for Each Below)
+## The 10 Golden Rules (Detailed Explanations for Each Below)
 
-*Please keep in mind these "golden rules" are dense and terse.*  
-*If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.* 
+*Please keep in mind these "golden rules" are dense and terse.*
+*If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.*
 
 1. **No Negative**: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
 2. **Stay Positive**: get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
@@ -57,7 +62,9 @@ Still, you are welcome to make your suggestions via PR...
 9. **Business**: focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
 10. **Social**: Stop giving/taking so much advice, only trust those who have delivered visibility, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
 
-# 2a Improving your State of Mind by Removing Negatives
+## Improving your State of Mind
+
+### Removing Negatives
 
 1. **Avoid Negative Stimuli**: recognize when a stimulus is negative and remove it entirely: no putting yourself down, no living in the past, no bad media (social media, news, gossip, drama)
 2. **Accept Failure, and Act Anyway**: humans are meant to learn via failure, toddlers understand this innately when learning to walk. Anyone afraid to lose can stop worrying about winning
@@ -65,7 +72,7 @@ Still, you are welcome to make your suggestions via PR...
 4. **Overcome Roadblocks**: figure out what you do not know, do it better if it was done before, remember why you started when all seems lost, and never let a single bad grain of rice ruin the entire bowl
 5. **Trust the Process, No Farm Overnight**: whenever you feel progress is taking too long or that your efforts are meaningless, consider that nature is patient, takes the right steps at the right time, maintains balance - and the flowers bloom, every year…
 
-# 2b Improving your State of Mind by Embracing Positives
+### Embracing Positives
 
 1. **Get Sleep, Eat Right, and Exercise**: sleep sufficiently (~8 hours regularly, no late screen use) and eat right (more water, less caffeine and junk food) to have the energy to exercise, and let exercise help with stress, anxiety, and depression
 2. **Sit in Silence Daily**: sit in silence daily for 10 minutes, attempting to focus on nothing; this can help clear the mind, remove anxiety and stress, and help you find more silence and focus in the way - boosting happiness and performance
@@ -73,7 +80,9 @@ Still, you are welcome to make your suggestions via PR...
 4. **Create and Have Fun**: Not everything has to be well-executed, high-quality, marketable, monetizable, or even good… the fun of creation is its own reward
 5. **Celebrate Every Small Win, and Win Often**: celebrate the small wins of progress, but ride the wave of good feelings into action (before they fade) and gain even more progress - remember, a single 5 minute action can be celebrated as a victory!
 
-# 3a Preparing for Action by Making a Productive Environment
+## Preparing for Action
+
+### Making a Productive Environment
 
 1. **Eliminate Temptations**: a house without snacks can lead to better diet, a workspace without social media and games can be more productive - remove the temptation entirely
 2. **Keep it Clean and Minimal**: a cluttered environment can be stressful, keep your work area clean and only the essentials (e.g. used daily) out, everything else can be in arm’s reach but out of sight
@@ -81,7 +90,7 @@ Still, you are welcome to make your suggestions via PR...
 4. **Distractions: Eliminate, Schedule or Write Down**: eliminate what is not essential (no TV, no noisemakers, no social media), schedule what is essential but can be done at regular times (email, checking phone, etc.), and write down the rest to be dealt with later
 5. **Prepare for Tomorrow, Today**: do not leave things undone today that will negatively affect tomorrow, make sure clothes are clean for tomorrow’s workout, dishes are washed for tomorrow’s cooking, etc.
 
-# 3b Preparing for Action by Managing Time
+### Managing Time
 
 1. **Avoid Decision Fatigue**: only major consequences with permanent damage require long waiting and thinking, everything else can be picked at random (either no consequences, or easily fixed)
 2. **Do Anything, But Not Everything**: decide one thing you wish to accomplish, and focus on that one thing - better one thing done, then none
@@ -89,7 +98,7 @@ Still, you are welcome to make your suggestions via PR...
 4. **Schedule a Little, Act a Lot**: write all the detailed actions to be taken for the month in one day, then spend the rest of the month acting without redoing the schedule - keep track, write notes, and update the schedule intelligently next month
 5. **Use Timers and Timeboxes**: use a timer for several reasons; alerts you for break times if you were productive, recalls you away from distractions, and can force you to deliver something rather than nothing by boxing the time to do it
 
-# 3c Preparing for Action by Stopping Procrastination
+### Stopping Procrastination
 
 1. **Find and Fix the Root Cause**: do NOT be upset with yourself, find the emotional (fear frustration, anger, self-doubt) or physical (lack of sleep, hunger, thirst) root cause, fix it, and get to work
 2. **Clarify the Confusion**: if unsure where to start, break the vague task down into subtasks and break those down into microtasks (~4 hours to complete), and get started on work with confidence
@@ -97,7 +106,9 @@ Still, you are welcome to make your suggestions via PR...
 4. **Fix or Forget, then Relax**: fix problems with serious consequences, ignore problems with minor consequences, and then relax and focus
 5. **Just Commit to a Little Bit**: do something for just 20 minutes, then you can stop if you aren't yet in the zone (you likely will be)
 
-# 4a Taking Action via Learning
+## Taking Action
+
+### Learning
 
 1. **Take Action Alongside Academics**: reading books can be helpful, but you must act and apply; swimming is a lot more about being in the water than the classroom
 2. **Practice Deliberately**: break large skills into subskills, and subskills into the smallest piece possible (e.g., for basketball, just a right-handed layup) - then practice those pieces intensely one day at a time
@@ -105,7 +116,7 @@ Still, you are welcome to make your suggestions via PR...
 4. **Engage Resources at LEAST Twice**: Engaging with learning materials twice is very effective, even if one or both is just casual consumption (e.g. pre-reading), any format is fine (books, podcasts, documentaries, etc.)
 5. **Revisit Regularly**: You will forget everything you learned over time, so revisit things regularly but leave space between visits. This "spaced repetition" will keep it fresh in your mind - and even improve your previous understanding
 
-# 4b Taking Action via Applying
+### Applying
 
 1. **Focus on One at a Time**: Stop multitasking, and do one thing at a time - you may not realize the performance difference, but others will
 2. **Complete the Bare Minimum List First**: Some days will not be productive for one reason or another - to salvage these days, come up with a "bare minimum list" and finish at least those things.
@@ -113,7 +124,9 @@ Still, you are welcome to make your suggestions via PR...
 4. **Create Your Own Luck/Flow**: you will find more luck, flow, and success by just grabbing the dice and sneaking in some free rolls before anyone even notices - be bold and go
 5. **Always Deliver**: in the end, only what was delivered counts; a flawed deliverable that can be fixed is far better than no deliverable at all - so make sure you deliver (timebox if necessary)
 
-# 5a Personal Tracking/Analysis/Adjustments
+## Tracking, Analysis, and Adjustments
+
+### Personal Goals
 
 1. **Make it Measurable, and Measure It**: in order to track any progress at all, we need measurements - make it measurable (frequency, accuracy, speed, etc.) and take measurements
 2. **Compete Only Against Yourself**: stop comparing yourself to others (which only hurts your state of mind), measure your own performance, and ensure you are making progress (a mentor can be helpful to improve your techniques and analyze performance)
@@ -121,7 +134,7 @@ Still, you are welcome to make your suggestions via PR...
 4. **Aim for Growth, NOT Goals or Busyness**: only growth matters, goals that do not cause growth need to be dropped, work that is not required maintenance is a waste of time
 5. **Examine Your Career (*Learn, Earn, Churn, Burn?*)**: the best situation is to be learning skills and earning money, the worst situation is churning meaningless work and burning time - figure out where you are and act as needed
 
-# 5b Professional Tracking/Analysis/Adjustments
+### Professional Goals
 
 1. **Ignore the Competition**: the competition never matters; their ideas can be improved and resold, their customer experience can be beaten, and even their base can be convinced to come to you
 2. **Focus on Customer Experience**: customer sales come from delivering products (what) to the right demographic (who), and customer loyalty comes from the best overall experience (products, service, price)
@@ -129,16 +142,17 @@ Still, you are welcome to make your suggestions via PR...
 4. **Admit Fault**: admitting fault is powerful - it shows honesty, and gives you a chance to engage and learn how to correct things
 5. **Know Your Worth**: as an individual, regularly interview if for no other reason then to assess your worth via salary offer; as a company entertain selling just to see what others are willing to pay for the goods and services provided
 
-# 6a Personal Relationships and Communication
+## Relationships and Communication
+
+### Personal
 
 1. **Take/Give Less Advice**: before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
 2. **Remain Yourself**: you cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
+3. **Have Deliverables in Hand for Mentorship**: finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
+4. **Create/Find the High Standard Team**: the team’s highest standard is the lowest performance allowed to exist; raise the bar if the team fails to meet it, consider moving on
+5. **Focus on Committing, Not Consensus**: the entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
 
-4. **Have Deliverables in Hand for Mentorship**: finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
-5. **Create/Find the High Standard Team**: the team’s highest standard is the lowest performance allowed to exist; raise the bar if the team fails to meet it, consider moving on
-6. **Focus on Committing, Not Consensus**: the entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
-
-# 6b Professional Relationships and Communication
+### Professional
 
 1. **You Owe Nothing, Say Nothing**: when discussions becomes arguments, when demands (sometimes contradictory) are made of you, remember that you owe nothing, not even a response - stay silent, move on, maintain inner peace (if you MUST respond, say “That is a good perspective”, and nothing more)
 2. **Be Skeptical of Words over Deliverables**: anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
@@ -146,26 +160,26 @@ Still, you are welcome to make your suggestions via PR...
 4. **Make/Break Friendships**: make friends who those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends who anyone who does the opposite (you are the average of your friends)
 5. **Stay Positive with Good Friends**: show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
 
-# 7 Summary
+## Summary
 
-Start by removing the negative things from your life, and accepting that failure is part of growth. Once you are able to act, learn to act alone and fix issues as they arise. After that, you just need patience and persistence.  
+Start by removing the negative things from your life, and accepting that failure is part of growth. Once you are able to act, learn to act alone and fix issues as they arise. After that, you just need patience and persistence.
 
-Start off getting your body healthy and ready (~8 hours of sleep, more water, less junk, cardio and weights), then your mind clear and focused (~10 minutes a day of meditation). With mind and body taken care of, find what makes your soul happy, have fun doing it, and let happiness create progress (and progress causes happiness, in an upwards spiral).  
+Start off getting your body healthy and ready (~8 hours of sleep, more water, less junk, cardio and weights), then your mind clear and focused (~10 minutes a day of meditation). With mind and body taken care of, find what makes your soul happy, have fun doing it, and let happiness create progress (and progress causes happiness, in an upwards spiral).
 
-You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work, and end the day preparing for tomorrow.  
+You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work, and end the day preparing for tomorrow.
 
-Do not waste time on meaningless decisions. Accept that you can do ONE thing at a time, and schedule time to do that one thing. Keep track of how often you get it done! And remember to plan just enough to act, then act - you can update plans later, with real-world feedback. Finally, to keep yourself focused, keep a timer at the ready for chunked periods of time.  
+Do not waste time on meaningless decisions. Accept that you can do ONE thing at a time, and schedule time to do that one thing. Keep track of how often you get it done! And remember to plan just enough to act, then act - you can update plans later, with real-world feedback. Finally, to keep yourself focused, keep a timer at the ready for chunked periods of time.
 
-Whenever you are blocked, do NOT blame yourself, instead RELAX and follow these steps: find the root cause FIRST! If it is emotional or physical, solve it. If you are confused, find clarifications. Be realistic instead of daydreaming. As worries arise, fix or forget. And if you still cannot start, just do 5, 10, 20 minutes, and if none of that works - call it a day and try again tomorrow.  
+Whenever you are blocked, do NOT blame yourself, instead RELAX and follow these steps: find the root cause FIRST! If it is emotional or physical, solve it. If you are confused, find clarifications. Be realistic instead of daydreaming. As worries arise, fix or forget. And if you still cannot start, just do 5, 10, 20 minutes, and if none of that works - call it a day and try again tomorrow.
 
-Accept that learning from materials is great, but you must actually try out what you learned. Practice deliberately, and use timers. Always learn something at least twice - spaced out for repetition and refreshing - quantity can lead to quality!  
+Accept that learning from materials is great, but you must actually try out what you learned. Practice deliberately, and use timers. Always learn something at least twice - spaced out for repetition and refreshing - quantity can lead to quality!
 
-Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that work as best you can, dealing with fires as they aside (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.  
+Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that work as best you can, dealing with fires as they aside (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.
 
-Progress requires measurements. Only measure yourself against yourself. Act in small but frequent chunks and seek feedback. After some chunks are complete, make sure you are growing and not just busy. After many chunks are complete, make sure you are learning and/or earning - not churning.  
+Progress requires measurements. Only measure yourself against yourself. Act in small but frequent chunks and seek feedback. After some chunks are complete, make sure you are growing and not just busy. After many chunks are complete, make sure you are learning and/or earning - not churning.
 
-You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.  
+You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.
 
-Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.  
+Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.
 
-Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!  
+Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!
