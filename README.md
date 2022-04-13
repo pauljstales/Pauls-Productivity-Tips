@@ -47,17 +47,16 @@ Please keep in mind these "golden rules" are dense and terse.
 If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them. 
 If you would prefer these in paragraph form, that is available as well - check the table of contents.
 
-- No Negative: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
-- Stay Positive: get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
-- Environment: remove temptations, clutter, and distractions - add some happiness, and always end the day preparing for tomorrow
-- Planning: ignore meaningless things, focus on one important thing at a time, schedule plenty of time to do it, and plan loosely and only update plans every 4-8 weeks (based on real-world feedback)
-- Procrastination: never put yourself down, try to find and fix the root cause (emotional, physical, confusion, staying realistic), and then give it just 20 minutes - if all fails, just call it a day and rest
-- Acting/Learning: take plenty of action by practicing deliberately, engage learning materials at least twice - spaced out for repetition and improved memory retention
-- Acting/Applying: do one at a time on the bare minimum list of goals for the day, then work as best you can for the remainder; if any fires pop up, put them out and fireproof the situation, and remember - only deliveries count
-- Progress: make things measurable and only measure against yourself, act in small iterations and get feedback, and have quarterly check-ins to make sure you are growth, and not just busy
-- Business: focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
-- Social: Stop giving/taking so much advice, only trust those who have delivered visibility, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
-
+1. No Negative: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
+2. Stay Positive: get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
+3. Environment: remove temptations, clutter, and distractions - add some happiness, and always end the day preparing for tomorrow
+4. Planning: ignore meaningless things, focus on one important thing at a time, schedule plenty of time to do it, and plan loosely and only update plans every 4-8 weeks (based on real-world feedback)
+5. Procrastination: never put yourself down, try to find and fix the root cause (emotional, physical, confusion, staying realistic), and then give it just 20 minutes - if all fails, just call it a day and rest
+6. Acting/Learning: take plenty of action by practicing deliberately, engage learning materials at least twice - spaced out for repetition and improved memory retention
+7. Acting/Applying: do one at a time on the bare minimum list of goals for the day, then work as best you can for the remainder; if any fires pop up, put them out and fireproof the situation, and remember - only deliveries count
+8. Progress: make things measurable and only measure against yourself, act in small iterations and get feedback, and have quarterly check-ins to make sure you are growth, and not just busy
+9. Business: focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
+10. Social: Stop giving/taking so much advice, only trust those who have delivered visibility, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
 
 # 1b The 10 Golden Rules, Paragraph Form
 
