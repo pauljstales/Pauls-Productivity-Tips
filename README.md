@@ -21,11 +21,6 @@ But, before you start, please read the most important advice of all...
 DO NOT try to do everything at once, you will quickly get overwhelmed!
 As the advice mentions many times - focus, do one thing at a time, and worry about completion!
 
-## Want to Contribute?
-I welcome all and any pull requests.
-But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.
-Still, you are welcome to make your suggestions via PR.
-
 ## Table of Contents
 1. [The 10 Golden Rules, Bullet Points](#the-10-golden-rules-bullet-points)
 2. [Improving your State of Mind](#improving-your-state-of-mind)
@@ -183,3 +178,8 @@ You can save your energy and ignore the competition - only the customer experien
 Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.
 
 Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!
+
+## Want to Contribute?
+I welcome all and any pull requests.
+But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.
+Still, you are welcome to make your suggestions via PR.
