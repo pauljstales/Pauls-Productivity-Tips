@@ -4,7 +4,8 @@ A collection of the wisdom I have received over the years, condensed into action
 
 # Introduction
 Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.  
-I hope this helps you... and I hope it helps me!  
+I hope this helps you... and I hope it helps me! Feel free to share this link.  
+If you liked this advice and wish to chat, you can always find me on twitter at https://twitter.com/pauljstales.  
 
 # Purpose of this Document
 The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).  
@@ -32,9 +33,9 @@ Still, you are welcome to make your suggestions via PR...
 - 2b Improving your State of Mind by Embracing Positives
 - 3a Preparing for Action by Making a Productive Environment
 - 3b Preparing for Action by Managing Time
-- 3c Preparing for Action by Stoping Procrasination
+- 3c Preparing for Action by Stopping Procrastination
 - 4a Taking Action via Learning
-- 4b Taking Action via Learning
+- 4b Taking Action via Applying
 - 5a Personal Tracking/Analysis/Adjustments
 - 5b Professional Tracking/Analysis/Adjustments
 - 6a Personal Relationships and Communication
@@ -64,27 +65,6 @@ Still, you are welcome to make your suggestions via PR...
 *If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.* 
 *If you would prefer these in paragraph form, that is available as well - check the table of contents.*
 
-Start by removing the negative things from your life, and accepting that failure is part of growth. Once you are able to act, learn to act alone and fix issues as they arise. After that, you just need patience and persistence.  
-
-Start off getting your body healthy and ready (~8 hours of sleep, more water, less junk, cardio and weights), then your mind clear and focused (~10 minutes a day of meditation). With mind and body taken care of, find what makes your soul happy, have fun doing it, and let happiness create progress (and progress causes happiness, in an upwards spiral).  
-
-You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work, and end the day preparing for tomorrow.  
-
-Do not waste time on meaningless decisions. Accept that you can do ONE thing at a time, and schedule time to do that one thing. Keep track of how often you get it done! And remember to plan just enough to act, then act - you can update plans later, with real-world feedback. Finally, to keep yourself focused, keep a timer at the ready for chunked periods of time.  
-
-Whenever you are blocked, do NOT blame yourself, instead RELAX and follow these steps: find the root cause FIRST! If it is emotional or physical, solve it. If you are confused, find clarifications. Be realistic instead of daydreaming. As worries arise, fix or forget. And if you still cannot start, just do 5, 10, 20 minutes, and if none of that works - call it a day and try again tomorrow.  
-
-Accept that learning from materials is great, but you must actually try out what you learned. Practice deliberately, and use timers. Always learn something at least twice - spaced out for repetition and refreshing - quantity can lead to quality!  
-
-Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that work as best you can, dealing with fires as they aside (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.  
-
-Progress requires measurements. Only measure yourself against yourself. Act in small but frequent chunks and seek feedback. After some chunks are complete, make sure you are growing and not just busy. After many chunks are complete, make sure you are learning and/or earning - not churning.  
-
-You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.  
-
-Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.  
-
-Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!  
 
 # 2a Improving your State of Mind by Removing Negatives
 
@@ -118,7 +98,7 @@ Remove the idea that you must answer to others or make them happy. Learn to chan
 4. **Schedule a Little, Act a Lot**: write all the detailed actions to be taken for the month in one day, then spend the rest of the month acting without redoing the schedule - keep track, write notes, and update the schedule intelligently next month
 5. **Use Timers and Timeboxes**: use a timer for several reasons; alerts you for break times if you were productive, recalls you away from distractions, and can force you to deliver something rather than nothing by boxing the time to do it
 
-# 3c Preparing for Action by Stoping Procrasination
+# 3c Preparing for Action by Stopping Procrastination
 
 1. **Find and Fix the Root Cause**: do NOT be upset with yourself, find the emotional (fear frustration, anger, self-doubt) or physical (lack of sleep, hunger, thirst) root cause, fix it, and get to work
 2. **Clarify the Confusion**: if unsure where to start, break the vague task down into subtasks and break those down into microtasks (~4 hours to complete), and get started on work with confidence
@@ -134,12 +114,12 @@ Remove the idea that you must answer to others or make them happy. Learn to chan
 4. **Engage Resources at LEAST Twice**: Engaging with learning materials twice is very effective, even if one or both is just casual consumption (e.g. pre-reading), any format is fine (books, podcasts, documentaries, etc.)
 5. **Revisit Regularly**: You will forget everything you learned over time, so revisit things regularly but leave space between visits. This "spaced repetition" will keep it fresh in your mind - and even improve your previous understanding
 
-# 4b Taking Action via Learning
+# 4b Taking Action via Applying
 
 1. **Focus on One at a Time**: Stop multitasking, and do one thing at a time - you may not realize the performance difference, but others will
 2. **Complete the Bare Minimum List First**: Some days will not be productive for one reason or another - to salvage these days, come up with a "bare minimum list" and finish at least those things.
 3. **Fix the Fires As they Arise, then Fireproof**: when a new fire arises, deal with it before it burns all progress away, then fireproof - dealing with the same fire more than worse is wasted time and effort
-4. C**reate Your Own Luck/Flow**: you will find more luck, flow, and success by just grabbing the dice and sneaking in some free rolls before anyone even notices - be bold and go
+4. **Create Your Own Luck/Flow**: you will find more luck, flow, and success by just grabbing the dice and sneaking in some free rolls before anyone even notices - be bold and go
 5. **Always Deliver**: in the end, only what was delivered counts; a flawed deliverable that can be fixed is far better than no deliverable at all - so make sure you deliver (timebox if necessary)
 
 # 5a Personal Tracking/Analysis/Adjustments
@@ -176,6 +156,24 @@ Remove the idea that you must answer to others or make them happy. Learn to chan
 
 # 7 Summary
 
-I hope these tips helped you, even if it was a single tip.  
-Feel free to share this link.  
-If you liked this advice and wish to chat, you can always find me on twitter at https://twitter.com/pauljstales.  
+Start by removing the negative things from your life, and accepting that failure is part of growth. Once you are able to act, learn to act alone and fix issues as they arise. After that, you just need patience and persistence.  
+
+Start off getting your body healthy and ready (~8 hours of sleep, more water, less junk, cardio and weights), then your mind clear and focused (~10 minutes a day of meditation). With mind and body taken care of, find what makes your soul happy, have fun doing it, and let happiness create progress (and progress causes happiness, in an upwards spiral).  
+
+You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work, and end the day preparing for tomorrow.  
+
+Do not waste time on meaningless decisions. Accept that you can do ONE thing at a time, and schedule time to do that one thing. Keep track of how often you get it done! And remember to plan just enough to act, then act - you can update plans later, with real-world feedback. Finally, to keep yourself focused, keep a timer at the ready for chunked periods of time.  
+
+Whenever you are blocked, do NOT blame yourself, instead RELAX and follow these steps: find the root cause FIRST! If it is emotional or physical, solve it. If you are confused, find clarifications. Be realistic instead of daydreaming. As worries arise, fix or forget. And if you still cannot start, just do 5, 10, 20 minutes, and if none of that works - call it a day and try again tomorrow.  
+
+Accept that learning from materials is great, but you must actually try out what you learned. Practice deliberately, and use timers. Always learn something at least twice - spaced out for repetition and refreshing - quantity can lead to quality!  
+
+Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that work as best you can, dealing with fires as they aside (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.  
+
+Progress requires measurements. Only measure yourself against yourself. Act in small but frequent chunks and seek feedback. After some chunks are complete, make sure you are growing and not just busy. After many chunks are complete, make sure you are learning and/or earning - not churning.  
+
+You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.  
+
+Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.  
+
+Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!  
