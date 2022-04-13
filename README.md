@@ -61,45 +61,45 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
 
 ### Removing Negatives
 
-1. **Avoid Negative Stimuli**: recognize when a stimulus is negative and remove it entirely: no putting yourself down, no living in the past, no bad media (social media, news, gossip, drama)
-2. **Accept Failure, and Act Anyway**: humans are meant to learn via failure, toddlers understand this innately when learning to walk. Anyone afraid to lose can stop worrying about winning
-3. **Climb the Mountain, Even When Alone**: people will become content, discouraged, or move into another direction - climb on
-4. **Overcome Roadblocks**: figure out what you do not know, do it better if it was done before, remember why you started when all seems lost, and never let a single bad grain of rice ruin the entire bowl
-5. **Trust the Process, No Farm Overnight**: whenever you feel progress is taking too long or that your efforts are meaningless, consider that nature is patient, takes the right steps at the right time, maintains balance - and the flowers bloom, every year…
+1. **Avoid Negative Stimuli**: Recognize when a stimulus is negative and remove it entirely: no putting yourself down, no living in the past, no bad media (social media, news, gossip, drama)
+2. **Accept Failure, and Act Anyway**: Humans are meant to learn via failure, toddlers understand this innately when learning to walk. Anyone afraid to lose can stop worrying about winning.
+3. **Climb the Mountain, Even When Alone**: People will become content, discouraged, or move into another direction - climb on
+4. **Overcome Roadblocks**: Figure out what you do not know, do it better if it was done before, remember why you started when all seems lost, and never let a single bad grain of rice ruin the entire bowl
+5. **Trust the Process, No Farm Overnight**: Whenever you feel progress is taking too long or that your efforts are meaningless, consider that nature is patient, takes the right steps at the right time, maintains balance - and the flowers bloom, every year.
 
 ### Embracing Positives
 
-1. **Get Sleep, Eat Right, and Exercise**: sleep sufficiently (~8 hours regularly, no late screen use) and eat right (more water, less caffeine and junk food) to have the energy to exercise, and let exercise help with stress, anxiety, and depression
-2. **Sit in Silence Daily**: sit in silence daily for 10 minutes, attempting to focus on nothing; this can help clear the mind, remove anxiety and stress, and help you find more silence and focus in the way - boosting happiness and performance
-3. **Find a True Desire**: before we begin to act on anything, we must understand why we want it and what the end result will be; this “soul’s desire” will be what gives us the strength to commit and act - and a lack of one quickly gets filled with meaningless things
+1. **Get Sleep, Eat Right, and Exercise**: Sleep sufficiently (~8 hours regularly, no late screen use) and eat right (more water, less caffeine and junk food) to have the energy to exercise, and let exercise help with stress, anxiety, and depression
+2. **Sit in Silence Daily**: Sit in silence daily for 10 minutes, attempting to focus on nothing; this can help clear the mind, remove anxiety and stress, and help you find more silence and focus along the way - boosting happiness and performance
+3. **Find a True Desire**: Before we begin to act on anything, we must understand why we want it and what the end result will be; this “soul’s desire” will be what gives us the strength to commit and act - and a lack of one quickly gets filled with meaningless things
 4. **Create and Have Fun**: Not everything has to be well-executed, high-quality, marketable, monetizable, or even good… the fun of creation is its own reward
-5. **Celebrate Every Small Win, and Win Often**: celebrate the small wins of progress, but ride the wave of good feelings into action (before they fade) and gain even more progress - remember, a single 5 minute action can be celebrated as a victory!
+5. **Celebrate Every Small Win, and Win Often**: Celebrate the small wins of progress, but ride the wave of good feelings into action (before they fade) and gain even more progress - remember, a single 5 minute action can be celebrated as a victory!
 
 ## Preparing for Action
 
 ### Making a Productive Environment
 
-1. **Eliminate Temptations**: a house without snacks can lead to better diet, a workspace without social media and games can be more productive - remove the temptation entirely
-2. **Keep it Clean and Minimal**: a cluttered environment can be stressful, keep your work area clean and only the essentials (e.g. used daily) out, everything else can be in arm’s reach but out of sight
-3. **Add Happiness**: whatever small finishing touches make you happy - a plant, a painting, sunlight, incense - need to be there to boost your mood and productivity
-4. **Distractions: Eliminate, Schedule or Write Down**: eliminate what is not essential (no TV, no noisemakers, no social media), schedule what is essential but can be done at regular times (email, checking phone, etc.), and write down the rest to be dealt with later
-5. **Prepare for Tomorrow, Today**: do not leave things undone today that will negatively affect tomorrow, make sure clothes are clean for tomorrow’s workout, dishes are washed for tomorrow’s cooking, etc.
+1. **Eliminate Temptations**: A house without snacks can lead to better diet, a workspace without social media and games can be more productive - remove the temptation entirely
+2. **Keep it Clean and Minimal**: A cluttered environment can be stressful, keep your work area clean and only the essentials (e.g. items used daily) visible, everything else can be in arm’s reach but out of sight
+3. **Add Happiness**: Whatever small finishing touches make you happy - a plant, a painting, sunlight, incense - need to be there to boost your mood and productivity
+4. **Distractions: Eliminate, Schedule or Write Down**: Eliminate what is not essential (no TV, no noisemakers, no social media), schedule what is essential but can be done at regular times (email, checking phone, etc.), and write down the rest to be dealt with later
+5. **Prepare for Tomorrow, Today**: Do not leave things undone today that will negatively affect tomorrow, make sure clothes are clean for tomorrow’s workout, dishes are washed for tomorrow’s cooking, etc.
 
 ### Managing Time
 
-1. **Avoid Decision Fatigue**: only major consequences with permanent damage require long waiting and thinking, everything else can be picked at random (either no consequences, or easily fixed)
-2. **Do Anything, But Not Everything**: decide one thing you wish to accomplish, and focus on that one thing - better one thing done, then none
-3. **Block Time and Check Off**: block out (N+M) times a week to do something N times (flexibility), and check each completed time (accountability) - daily activities should be 5 checks for 7 blocks
-4. **Schedule a Little, Act a Lot**: write all the detailed actions to be taken for the month in one day, then spend the rest of the month acting without redoing the schedule - keep track, write notes, and update the schedule intelligently next month
-5. **Use Timers and Timeboxes**: use a timer for several reasons; alerts you for break times if you were productive, recalls you away from distractions, and can force you to deliver something rather than nothing by boxing the time to do it
+1. **Avoid Decision Fatigue**: Only major consequences with permanent damage require long waiting and thinking, everything else can be picked at random (either no consequences, or easily fixed)
+2. **Do Anything, But Not Everything**: Decide one thing you wish to accomplish, and focus on that one thing - better one thing done, then none
+3. **Block Time and Check Off**: Block out (N+M) times a week to do something N times (flexibility), and check each completed time (accountability) - daily activities should be 5 checks for 7 blocks
+4. **Schedule a Little, Act a Lot**: Write all the detailed actions to be taken for the month in one day, then spend the rest of the month acting without redoing the schedule - keep track, write notes, and update the schedule intelligently next month
+5. **Use Timers and Timeboxes**: Use a timer for several reasons; alerts you for break times if you were productive, recalls you away from distractions, and can force you to deliver something rather than nothing by boxing the time to do it
 
 ### Stopping Procrastination
 
-1. **Find and Fix the Root Cause**: do NOT be upset with yourself, find the emotional (fear frustration, anger, self-doubt) or physical (lack of sleep, hunger, thirst) root cause, fix it, and get to work
-2. **Clarify the Confusion**: if unsure where to start, break the vague task down into subtasks and break those down into microtasks (~4 hours to complete), and get started on work with confidence
-3. **Be Realistic about Effort and Result**: let go of unrealistic expectations and embrace the real situation (you cannot remain dry and picture perfect while winning a tough race)
-4. **Fix or Forget, then Relax**: fix problems with serious consequences, ignore problems with minor consequences, and then relax and focus
-5. **Just Commit to a Little Bit**: do something for just 20 minutes, then you can stop if you aren't yet in the zone (you likely will be)
+1. **Find and Fix the Root Cause**: Do NOT be upset with yourself, find the emotional (fear frustration, anger, self-doubt) or physical (lack of sleep, hunger, thirst) root cause, fix it, and get to work
+2. **Clarify the Confusion**: If unsure where to start, break the vague task down into subtasks and break those down into microtasks (~4 hours to complete), then get started on work with confidence
+3. **Be Realistic about Effort and Result**: Let go of unrealistic expectations and embrace the real situation (you cannot remain dry and picture perfect while winning a tough race)
+4. **Fix or Forget, then Relax**: Fix problems with serious consequences, ignore problems with minor consequences, and then relax and focus
+5. **Just Commit to a Little Bit**: Do something for just 20 minutes, then you can stop if you aren't yet in the zone (you likely will be)
 
 ## Taking Action
 
