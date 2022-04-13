@@ -43,9 +43,9 @@ Still, you are welcome to make your suggestions via PR...
 
 # 1a The 10 Golden Rules, Bullet Points
 
-Please keep in mind these "golden rules" are dense and terse.  
-If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them. 
-If you would prefer these in paragraph form, that is available as well - check the table of contents.
+*Please keep in mind these "golden rules" are dense and terse.*  
+*If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.* 
+*If you would prefer these in paragraph form, that is available as well - check the table of contents.*
 
 1. No Negative: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
 2. Stay Positive: get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
