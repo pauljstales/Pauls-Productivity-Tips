@@ -27,26 +27,24 @@ But as a personal project first and foremost, I cannot guarantee which - if any 
 Still, you are welcome to make your suggestions via PR...
 
 # Table of Contents
-- 1a The 10 Golden Rules, Bullet Points
-- 1b The 10 Golden Rules, Paragraph Form
-- 2a Improving your State of Mind by Removing Negatives
-- 2b Improving your State of Mind by Embracing Positives
-- 3a Preparing for Action by Making a Productive Environment
-- 3b Preparing for Action by Managing Time
-- 3c Preparing for Action by Stopping Procrastination
-- 4a Taking Action via Learning
-- 4b Taking Action via Applying
-- 5a Personal Tracking/Analysis/Adjustments
-- 5b Professional Tracking/Analysis/Adjustments
-- 6a Personal Relationships and Communication
-- 6b Professional Relationships and Communication
-- 7 Summary
+- 1 The 10 Golden Rules, Bullet Points https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#1a-the-10-golden-rules-bullet-points
+- 2a Improving your State of Mind by Removing Negatives https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#2a-improving-your-state-of-mind-by-removing-negatives
+- 2b Improving your State of Mind by Embracing Positives https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#2b-improving-your-state-of-mind-by-embracing-positives
+- 3a Preparing for Action by Making a Productive Environment https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#3a-preparing-for-action-by-making-a-productive-environment
+- 3b Preparing for Action by Managing Time https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#3b-preparing-for-action-by-managing-time
+- 3c Preparing for Action by Stopping Procrastination https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#3c-preparing-for-action-by-stopping-procrastination
+- 4a Taking Action via Learning https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#4a-taking-action-via-learning
+- 4b Taking Action via Applying https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#4b-taking-action-via-applying
+- 5a Personal Tracking/Analysis/Adjustments https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#5a-personal-trackinganalysisadjustments
+- 5b Professional Tracking/Analysis/Adjustments https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#5b-professional-trackinganalysisadjustments
+- 6a Personal Relationships and Communication https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#6a-personal-relationships-and-communication
+- 6b Professional Relationships and Communication https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#6b-professional-relationships-and-communication
+- 7 Summary https://github.com/pauljstales/Pauls-Productivity-Tips/blob/main/README.md#7-summary
 
 # 1a The 10 Golden Rules, Bullet Points
 
 *Please keep in mind these "golden rules" are dense and terse.*  
 *If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.* 
-*If you would prefer these in paragraph form, that is available as well - check the table of contents.*
 
 1. **No Negative**: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
 2. **Stay Positive**: get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
@@ -58,13 +56,6 @@ Still, you are welcome to make your suggestions via PR...
 8. **Progress**: make things measurable and only measure against yourself, act in small iterations and get feedback, and have quarterly check-ins to make sure you are growth, and not just busy
 9. **Business**: focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
 10. **Social**: Stop giving/taking so much advice, only trust those who have delivered visibility, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
-
-# 1b The 10 Golden Rules, Paragraph Form
-
-*Please keep in mind these "golden rules" are dense and terse.*  
-*If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.* 
-*If you would prefer these in paragraph form, that is available as well - check the table of contents.*
-
 
 # 2a Improving your State of Mind by Removing Negatives
 
