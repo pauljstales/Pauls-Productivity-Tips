@@ -8,23 +8,25 @@ I hope this helps you... and I hope it helps me!
 
 # Purpose of this Document
 
-The goal of this document is to try to provide actionable tips (meaning things you can follow   
-without thinking about them much). It starts off with some dense, terse "golden rules".   
+The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).  
+It starts off with some dense, terse "golden rules".   
 Further chapters are dedicated to expanding on those rules and the sub-principles behind them.
 
-Not all of this advice is for everyone - some will not apply, and some will be disagreeable to  
-many who hold different values and beliefs. That is okay! We can all disagree and remain friendly.
+Not all of this advice is for everyone.  
+Some advice will be disagreeable to those who hold different values and beliefs.  
+That is okay! We can all disagree and remain friendly.
 
 # The First Piece of Advice - One Thing at a Time...
 
-But, before you start, please read the most important advice of all - DO NOT try to do everything  
-at once, you will quickly get overwhelmed! As the advice mentions many times - focus, do one thing  
-at a time, and worry about completion!
+But, before you start, please read the most important advice of all..  
+DO NOT try to do everything at once, you will quickly get overwhelmed!   
+As the advice mentions many times - focus, do one thing at a time, and worry about completion!
 
 # Want to Contribute?
 
-I welcome all and any pull requests, but as a personal project first and foremost, I cannot  
-guarantee which - if any - PRs will be accepted. Still, you are welcome to PR...
+I welcome all and any pull requests.  
+But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.  
+Still, you are welcome to make your suggestions via PR...
 
 # Table of Contents
 1a The 10 Golden Rules, Bullet Points
