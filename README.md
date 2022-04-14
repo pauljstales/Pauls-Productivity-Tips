@@ -108,19 +108,21 @@ The most important advice of all... try one thing at a time!
 
 ## Relationships and Communication
 
-1. **Take/Give Less Advice**: Before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
-2. **Remain Yourself**: You cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
-3. **Have Deliverables in Hand for Mentorship**: Finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
-4. **Create/Find the High Standard Team**: The team’s highest standard is the lowest performance allowed to exist; raise the bar - if the team fails to meet it, consider moving on
-5. **Focus on Committing, Not Consensus**: The entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
-
-### Professional
+### Personal Relationships
 
 1. **You Owe Nothing, Say Nothing**: When discussions become arguments, when demands (sometimes contradictory) are made of you, remember that you owe nothing, not even a response - stay silent, move on, maintain inner peace (if you MUST respond, say “That is a good perspective”, and nothing more)
-2. **Be Skeptical of Words Over Deliverables**: Anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
+2. **Remain Yourself**: You cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
 3. **Channel Energy Inwards**: Anger and hatred would be far less if it cost money rather than just time; channel that energy into self-improvement rather than revenge
 4. **Make/Break Friendships**: Make friends with those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends with anyone who does the opposite (you are the average of your friends)
 5. **Stay Positive with Good Friends**: Show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
+
+### Professional Relationships
+
+1. **Take/Give Less Advice**: Before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
+2. **Be Skeptical of Words Over Deliverables**: Anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
+3. **Have Deliverables in Hand for Mentorship**: Finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
+4. **Create/Find the High Standard Team**: The team’s highest standard is the lowest performance allowed to exist; raise the bar - if the team fails to meet it, consider moving on
+5. **Focus on Committing, Not Consensus**: The entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
 
 ## The 10 Key Rules (Summary)
 
