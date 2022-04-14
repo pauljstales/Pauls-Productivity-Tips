@@ -105,55 +105,55 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
 
 ### Learning
 
-1. **Take Action Alongside Academics**: reading books can be helpful, but you must act and apply; swimming is a lot more about being in the water than the classroom
-2. **Practice Deliberately**: break large skills into subskills, and subskills into the smallest piece possible (e.g., for basketball, just a right-handed layup) - then practice those pieces intensely one day at a time
-3. **Use Timers for Work Blocks**: deliberately practice in a large two hour chunk, breaking that into smaller pieces with very small standup and stretch breaks - then take a longer break
+1. **Take Action Alongside Academics**: Reading books can be helpful, but you must act and apply; swimming is a lot more about being in the water than the classroom
+2. **Practice Deliberately**: Break large skills into subskills, and subskills into the smallest piece possible (e.g., for basketball, just a right-handed layup) - then practice those pieces intensely one day at a time
+3. **Use Timers for Work Blocks**: Deliberately practice in a large two hour chunk, breaking that into smaller pieces with very small standup and stretch breaks - then take a longer break
 4. **Engage Resources at LEAST Twice**: Engaging with learning materials twice is very effective, even if one or both is just casual consumption (e.g. pre-reading), any format is fine (books, podcasts, documentaries, etc.)
-5. **Revisit Regularly**: You will forget everything you learned over time, so revisit things regularly but leave space between visits. This "spaced repetition" will keep it fresh in your mind - and even improve your previous understanding
+5. **Revisit Regularly**: You will forget everything you learned over time, so revisit things regularly but leave space between visits. This "spaced repetition" will keep it fresh in your mind - and even improve upon your previous understanding.
 
 ### Applying
 
 1. **Focus on One at a Time**: Stop multitasking, and do one thing at a time - you may not realize the performance difference, but others will
-2. **Complete the Bare Minimum List First**: Some days will not be productive for one reason or another - to salvage these days, come up with a "bare minimum list" and finish at least those things.
-3. **Fix the Fires As they Arise, then Fireproof**: when a new fire arises, deal with it before it burns all progress away, then fireproof - dealing with the same fire more than worse is wasted time and effort
-4. **Create Your Own Luck/Flow**: you will find more luck, flow, and success by just grabbing the dice and sneaking in some free rolls before anyone even notices - be bold and go
-5. **Always Deliver**: in the end, only what was delivered counts; a flawed deliverable that can be fixed is far better than no deliverable at all - so make sure you deliver (timebox if necessary)
+2. **Complete the Bare Minimum List First**: Some days will not be productive for one reason or another - to salvage these days, come up with a "bare minimum list" and finish at least those things
+3. **Fix the Fires as They Arise, then Fireproof**: When a new fire arises, deal with it before it burns all progress away, then fireproof - dealing with the same fire more than once is wasted time and effort
+4. **Create Your Own Luck/Flow**: You will find more luck, flow, and success by just grabbing the dice and sneaking in some free rolls before anyone even notices - be bold and go
+5. **Always Deliver**: In the end, only what was delivered counts; a flawed deliverable that can be fixed is far better than no deliverable at all - so make sure you deliver (timebox if necessary)
 
 ## Tracking, Analysis, and Adjustments
 
 ### Personal Goals
 
-1. **Make it Measurable, and Measure It**: in order to track any progress at all, we need measurements - make it measurable (frequency, accuracy, speed, etc.) and take measurements
-2. **Compete Only Against Yourself**: stop comparing yourself to others (which only hurts your state of mind), measure your own performance, and ensure you are making progress (a mentor can be helpful to improve your techniques and analyze performance)
-3. **Do Frequent Iterations and Get Feedback**: the ultimate proof of frequent feedback is found in the survival of species; those that adjust to feedback thrive - do small actions and get frequent feedback
-4. **Aim for Growth, NOT Goals or Busyness**: only growth matters, goals that do not cause growth need to be dropped, work that is not required maintenance is a waste of time
-5. **Examine Your Career (*Learn, Earn, Churn, Burn?*)**: the best situation is to be learning skills and earning money, the worst situation is churning meaningless work and burning time - figure out where you are and act as needed
+1. **Make it Measurable, and Measure It**: In order to track any progress at all, we need measurements - make it measurable (frequency, accuracy, speed, etc.) and take measurements
+2. **Compete Only Against Yourself**: Stop comparing yourself to others (which only hurts your state of mind), measure your own performance, and ensure you are making progress (a mentor can be helpful to improve your techniques and analyze performance)
+3. **Do Frequent Iterations and Get Feedback**: The ultimate proof of frequent feedback is found in the survival of species; those that adjust to feedback thrive - do small actions and get frequent feedback
+4. **Aim for Growth, NOT Goals or Busyness**: Only growth matters, goals that do not cause growth need to be dropped, work that is not required maintenance is a waste of time
+5. **Examine Your Career (*Learn, Earn, Churn, Burn?*)**: The best situation is to be learning skills and earning money, the worst situation is churning meaningless work and burning time - figure out where you are and act as needed
 
 ### Professional Goals
 
-1. **Ignore the Competition**: the competition never matters; their ideas can be improved and resold, their customer experience can be beaten, and even their base can be convinced to come to you
-2. **Focus on Customer Experience**: customer sales come from delivering products (what) to the right demographic (who), and customer loyalty comes from the best overall experience (products, service, price)
-3. **When Ready, Market Hard**: marketing is about staying seen and heard, building a product that lets customers achieve their goals, and getting that product into hands on demand, summarized as “visible deliverables”
-4. **Admit Fault**: admitting fault is powerful - it shows honesty, and gives you a chance to engage and learn how to correct things
-5. **Know Your Worth**: as an individual, regularly interview if for no other reason then to assess your worth via salary offer; as a company entertain selling just to see what others are willing to pay for the goods and services provided
+1. **Ignore the Competition**: The competition never matters; their ideas can be improved and resold, their customer experience can be beaten, and even their base can be convinced to come to you
+2. **Focus on Customer Experience**: Customer sales come from delivering products (what) to the right demographic (who), and customer loyalty comes from the best overall experience (products, service, price)
+3. **When Ready, Market Hard**: Marketing is about staying seen and heard, building a product that lets customers achieve their goals, and getting that product into hands on demand, summarized as “visible deliverables”
+4. **Admit Fault**: Admitting fault is powerful - it shows honesty, and gives you a chance to engage and learn how to correct things
+5. **Know Your Worth**: As an individual, regularly interview if for no other reason then to assess your worth via salary offer; as a company, entertain selling just to see what others are willing to pay for the goods and services provided
 
 ## Relationships and Communication
 
 ### Personal
 
-1. **Take/Give Less Advice**: before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
-2. **Remain Yourself**: you cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
-3. **Have Deliverables in Hand for Mentorship**: finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
-4. **Create/Find the High Standard Team**: the team’s highest standard is the lowest performance allowed to exist; raise the bar if the team fails to meet it, consider moving on
-5. **Focus on Committing, Not Consensus**: the entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
+1. **Take/Give Less Advice**: Before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
+2. **Remain Yourself**: You cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
+3. **Have Deliverables in Hand for Mentorship**: Finding mentorship is an active activity, you start by showing real work and effort, act on all feedback with visible progress, and ask the right questions
+4. **Create/Find the High Standard Team**: The team’s highest standard is the lowest performance allowed to exist; raise the bar - if the team fails to meet it, consider moving on
+5. **Focus on Committing, Not Consensus**: The entire team will rarely agree on a course of action, but it is important to get everyone on the team to 100% commit, not 100% agree
 
 ### Professional
 
-1. **You Owe Nothing, Say Nothing**: when discussions becomes arguments, when demands (sometimes contradictory) are made of you, remember that you owe nothing, not even a response - stay silent, move on, maintain inner peace (if you MUST respond, say “That is a good perspective”, and nothing more)
-2. **Be Skeptical of Words over Deliverables**: anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
-3. **Channel Energy Inwards**: anger and hatred would be far less if it cost money rather than just time; channel that energy into self-improvement rather than revenge
-4. **Make/Break Friendships**: make friends who those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends who anyone who does the opposite (you are the average of your friends)
-5. **Stay Positive with Good Friends**: show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
+1. **You Owe Nothing, Say Nothing**: When discussions become arguments, when demands (sometimes contradictory) are made of you, remember that you owe nothing, not even a response - stay silent, move on, maintain inner peace (if you MUST respond, say “That is a good perspective”, and nothing more)
+2. **Be Skeptical of Words Over Deliverables**: Anyone who prefers to talk about who they are and what they have done should be held as suspicious - genuine people just show their actions and work
+3. **Channel Energy Inwards**: Anger and hatred would be far less if it cost money rather than just time; channel that energy into self-improvement rather than revenge
+4. **Make/Break Friendships**: Make friends with those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends with anyone who does the opposite (you are the average of your friends)
+5. **Stay Positive with Good Friends**: Show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
 
 ## Summary
 
