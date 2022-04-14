@@ -88,7 +88,7 @@ The most important advice of all... try one thing at a time!
 ### Applying
 
 1. **Focus on One at a Time**: Stop multitasking, and do one thing at a time - you may not realize the performance difference, but others will
-2. **Worst Thing First, then Bare Minimum...**: Some days will not be productive for one reason or another - to salvage these days, come up with a "bare minimum list" and finish at least those things... and do the thing you dislike the most first to get it over with (sometimes called as "eat the frog")
+2. **Worst Thing First, then the Bare Minimum**: Some days will not be productive for one reason or another - to salvage these days, come up with a "bare minimum list" and finish at least those things... and do the thing you dislike the most first to get it over with (sometimes called as "eat the frog")
 3. **Fix the Fires as They Arise, then Fireproof**: When a new fire arises, deal with it before it burns all progress away, then fireproof - dealing with the same fire more than once is wasted time and effort
 4. **Create Your Own Luck/Flow**: You will find more luck, flow, and success by just grabbing the dice and sneaking in some free rolls before anyone even notices - be bold and go
 5. **Always Deliver**: In the end, only what was delivered counts; a flawed deliverable that can be fixed is far better than no deliverable at all - so make sure you deliver (timebox if necessary)
