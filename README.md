@@ -9,17 +9,11 @@ If you liked this advice and wish to chat, you can always find me on twitter at 
 
 ## Purpose of this Document
 The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).
-It starts off with some dense, terse "golden rules."
-Further chapters are dedicated to expanding on those rules and the sub-principles behind them.
-
-Not all of this advice is for everyone.  
-Some advice will be disagreeable to those who hold different values and beliefs.
+Not all of this advice is for everyone. Some advice will be disagreeable to those who hold different values and beliefs.
 That is okay! We can disagree and remain friendly.
 
 ## The First Piece of Advice: One Thing at a Time...
-But, before you start, please read the most important advice of all...
-DO NOT try to do everything at once, you will quickly get overwhelmed!
-As the advice mentions many times - focus, do one thing at a time, and worry about completion!
+The most important advice of all... try one thing at a time!
 
 ## Table of Contents
 1. [Improving your State of Mind](#improving-your-state-of-mind)
@@ -36,8 +30,6 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
     1. [Personal Goals](#personal-goals)
     2. [Professional Goals](#professional-goals)
 5. [Relationships and Communication](#relationships-and-communication)
-    1. [Personal](#personal)
-    2. [Professional](#professional)
 6. [Summary AKA the 10 Key Rules](#the-10-key-rules-summary)
 
 ## Improving your State of Mind
@@ -110,19 +102,11 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
 2. **Compete Only Against Yourself**: Stop comparing yourself to others (which only hurts your state of mind), measure your own performance, and ensure you are making progress (a mentor can be helpful to improve your techniques and analyze performance)
 3. **Do Frequent Iterations and Get Feedback**: The ultimate proof of frequent feedback is found in the survival of species; those that adjust to feedback thrive - do small actions and get frequent feedback
 4. **Aim for Growth, NOT Goals or Busyness**: Only growth matters, goals that do not cause growth need to be dropped, work that is not required maintenance is a waste of time
-5. **Examine Your Career (*Learn, Earn, Churn, Burn?*)**: The best situation is to be learning skills and earning money, the worst situation is churning meaningless work and burning time - figure out where you are and act as needed
-
-### Professional Goals
-
-1. **Admit Fault**: Admitting fault is powerful - it shows honesty, and gives you a chance to engage and learn how to correct things
-2. **Know Your Worth**: As an individual, regularly interview if for no other reason then to assess your worth via salary offer; as a company, entertain selling just to see what others are willing to pay for the goods and services provided
-3. **Ignore the Competition**: The competition never matters; their ideas can be improved and resold, their customer experience can be beaten, and even their base can be convinced to come to you
-4. **Focus on Customer Experience**: Customer sales come from delivering products (what) to the right demographic (who), and customer loyalty comes from the best overall experience (products, service, price)
-5. **When Ready, Market Hard**: Marketing is about staying seen and heard, building a product that lets customers achieve their goals, and getting that product into hands on demand, summarized as “visible deliverables”
+5. **Examine Your Career and Know Your Worth**: You want to be learning or earning - preferably both! If you are doing neither, time to move on. Do not be afraid to interview regularly - interviewing is a skill by itself, AND, it helps you know your worth!
+6. 
+7. The best situation is to be learning skills and earning money, the worst situation is churning meaningless work and burning time - figure out where you are and act as needed
 
 ## Relationships and Communication
-
-### Personal
 
 1. **Take/Give Less Advice**: Before taking advice, consider the person may be unable to do it and unaffected by consequences; before giving advice, consider staying quiet and leading by example instead
 2. **Remain Yourself**: You cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
