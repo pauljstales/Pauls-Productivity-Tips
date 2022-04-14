@@ -22,40 +22,23 @@ DO NOT try to do everything at once, you will quickly get overwhelmed!
 As the advice mentions many times - focus, do one thing at a time, and worry about completion!
 
 ## Table of Contents
-1. [The 10 Golden Rules, Bullet Points](#the-10-golden-rules-bullet-points)
-2. [Improving your State of Mind](#improving-your-state-of-mind)
+1. [Improving your State of Mind](#improving-your-state-of-mind)
     1. [Removing Negatives](#removing-negatives)
     2. [Embracing Positives](#embracing-positives)
-3. [Preparing for Action](#preparing-for-action)
+2. [Preparing for Action](#preparing-for-action)
     1. [Making a Productive Environment](#making-a-productive-environment)
     2. [Managing Time](#managing-time)
     3. [Stopping Procrastination](#stopping-procrastination)
-4. [Taking Action](#taking-action)
+3. [Taking Action](#taking-action)
     1. [Learning](#learning)
     2. [Applying](#applying)
-5. [Tracking, Analysis, and Adjustments](#tracking-analysis-and-adjustments)
+4. [Tracking, Analysis, and Adjustments](#tracking-analysis-and-adjustments)
     1. [Personal Goals](#personal-goals)
     2. [Professional Goals](#professional-goals)
-6. [Relationships and Communication](#relationships-and-communication)
+5. [Relationships and Communication](#relationships-and-communication)
     1. [Personal](#personal)
     2. [Professional](#professional)
-7. [Summary](#summary)
-
-## The 10 Golden Rules (Detailed Explanations for Each Below)
-
-*Please keep in mind these "golden rules" are dense and terse.*
-*If you want to see the deeper reasoning and/or sub-principles behind them, please refer to the chapter on them.*
-
-1. **No Negativity**: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
-2. **Stay Positive**: Get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
-3. **Environment**: Remove temptations, clutter, and distractions - add some happiness, and always end the day preparing for tomorrow
-4. **Planning**: Ignore meaningless things, focus on one important thing at a time, schedule plenty of time to do it, and plan loosely only updating plans every 4-8 weeks (based on real-world feedback)
-5. **Procrastination**: Never put yourself down, try to find and fix the root cause (emotional, physical, confusion, staying realistic), and then give it just 20 minutes - if all fails, just call it a day and rest
-6. **Acting/Learning**: Take plenty of action by practicing deliberately, engage learning materials at least twice - spaced out for repetition and improved memory retention
-7. **Acting/Applying**: Do one at a time on the bare minimum list of goals for the day, then work as best you can for the remainder; if any fires pop up, put them out and fireproof the situation, and remember - only deliveries count
-8. **Progress**: Make things measurable and only measure against yourself, act in small iterations and get feedback, and have quarterly check-ins to make sure you are growth, and not just busy
-9. **Business**: Focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
-10. **Social**: Stop giving/taking so much advice, only trust those who have delivered visibly, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
+6. [Summary AKA the 10 Key Rules](#the-10-golden-rules-bullet-points)
 
 ## Improving your State of Mind
 
@@ -131,11 +114,11 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
 
 ### Professional Goals
 
-1. **Ignore the Competition**: The competition never matters; their ideas can be improved and resold, their customer experience can be beaten, and even their base can be convinced to come to you
-2. **Focus on Customer Experience**: Customer sales come from delivering products (what) to the right demographic (who), and customer loyalty comes from the best overall experience (products, service, price)
-3. **When Ready, Market Hard**: Marketing is about staying seen and heard, building a product that lets customers achieve their goals, and getting that product into hands on demand, summarized as “visible deliverables”
-4. **Admit Fault**: Admitting fault is powerful - it shows honesty, and gives you a chance to engage and learn how to correct things
-5. **Know Your Worth**: As an individual, regularly interview if for no other reason then to assess your worth via salary offer; as a company, entertain selling just to see what others are willing to pay for the goods and services provided
+1. **Admit Fault**: Admitting fault is powerful - it shows honesty, and gives you a chance to engage and learn how to correct things
+2. **Know Your Worth**: As an individual, regularly interview if for no other reason then to assess your worth via salary offer; as a company, entertain selling just to see what others are willing to pay for the goods and services provided
+3. **Ignore the Competition**: The competition never matters; their ideas can be improved and resold, their customer experience can be beaten, and even their base can be convinced to come to you
+4. **Focus on Customer Experience**: Customer sales come from delivering products (what) to the right demographic (who), and customer loyalty comes from the best overall experience (products, service, price)
+5. **When Ready, Market Hard**: Marketing is about staying seen and heard, building a product that lets customers achieve their goals, and getting that product into hands on demand, summarized as “visible deliverables”
 
 ## Relationships and Communication
 
@@ -155,29 +138,18 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
 4. **Make/Break Friendships**: Make friends with those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends with anyone who does the opposite (you are the average of your friends)
 5. **Stay Positive with Good Friends**: Show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
 
-## Summary
+## The 10 Key Rules (Summary)
 
-Start by removing the negative things from your life, and accepting that failure is part of growth. Once you are able to act, learn to act alone and fix issues as they arise. After that, you just need patience and persistence.
-
-Start off getting your body healthy and ready (~8 hours of sleep, more water, less junk, cardio and weights), then your mind clear and focused (~10 minutes a day of meditation). With mind and body taken care of, find what makes your soul happy, have fun doing it, and let happiness create progress (and progress causes happiness, in an upwards spiral).
-
-You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work and end the day preparing for tomorrow.
-
-Do not waste time on meaningless decisions. Accept that you can do ONE thing at a time, and schedule time to do that one thing. Keep track of how often you get it done! And remember to plan just enough to act, then act - you can update plans later, with real-world feedback. Finally, to keep yourself focused, keep a timer at the ready for chunked periods of time.
-
-Whenever you are blocked, do NOT blame yourself, instead RELAX and follow these steps: find the root cause FIRST! If it is emotional or physical, solve it. If you are confused, find clarifications. Be realistic instead of daydreaming. As worries arise, fix or forget. And if you still cannot start, just do 5, 10, 20 minutes, and if none of that works - call it a day and try again tomorrow.
-
-Accept that learning from materials is great, but you must actually try out what you learned. Practice deliberately, and use timers. Always learn something at least twice - spaced out for repetition and refreshing - quantity can lead to quality!
-
-Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that, work as best you can, dealing with fires as they arise (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.
-
-Progress requires measurements. Only measure yourself against yourself. Act in small but frequent chunks and seek feedback. After some chunks are complete, make sure you are growing and not just busy. After many chunks are complete, make sure you are learning and/or earning - not churning.
-
-You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who/execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.
-
-Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.
-
-Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!
+1. **No Negativity**: Remove negative things from your life, accept failure as inevitable and positive for growth, and remember patience and persistence - alone or in a team
+2. **Stay Positive**: Get your body and mind healthy and ready for work, do what you enjoy doing, and let progress and happiness feed each other into an upward spiral
+3. **Environment**: Remove temptations, clutter, and distractions - add some happiness, and always end the day preparing for tomorrow
+4. **Planning**: Ignore meaningless things, focus on one important thing at a time, schedule plenty of time to do it, and plan loosely only updating plans every 4-8 weeks (based on real-world feedback)
+5. **Procrastination**: Never put yourself down, try to find and fix the root cause (emotional, physical, confusion, staying realistic), and then give it just 20 minutes - if all fails, just call it a day and rest
+6. **Acting/Learning**: Take plenty of action by practicing deliberately, engage learning materials at least twice - spaced out for repetition and improved memory retention
+7. **Acting/Applying**: Do one at a time on the bare minimum list of goals for the day, then work as best you can for the remainder; if any fires pop up, put them out and fireproof the situation, and remember - only deliveries count
+8. **Progress**: Make things measurable and only measure against yourself, act in small iterations and get feedback, and have quarterly check-ins to make sure you are growth, and not just busy
+9. **Business**: Focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
+10. **Social**: Stop giving/taking so much advice, only trust those who have delivered visibly, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
 
 ## Want to Contribute?
 I welcome any and all pull requests.
