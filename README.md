@@ -38,7 +38,7 @@ As the advice mentions many times - focus, do one thing at a time, and worry abo
 5. [Relationships and Communication](#relationships-and-communication)
     1. [Personal](#personal)
     2. [Professional](#professional)
-6. [Summary AKA the 10 Key Rules](#the-10-golden-rules-bullet-points)
+6. [Summary AKA the 10 Key Rules](#the-10-key-rules-summary)
 
 ## Improving your State of Mind
 
