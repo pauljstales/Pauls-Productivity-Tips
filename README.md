@@ -62,7 +62,7 @@ The most important advice of all... try one thing at a time!
 ### Managing Time
 
 1. **Avoid Decision Fatigue**: Only major consequences with permanent damage require long waiting and thinking, everything else can be picked at random (either no consequences, or easily fixed)
-2. **Do Anything, But Not Everything**: Decide one thing you wish to accomplish, and focus on that one thing - better one thing done, then none
+2. **Do Anything, But Not Everything**: Decide one thing you wish to accomplish, and focus on that one thing - better one thing done, than none
 3. **Block Time and Check Off**: Block out (N+M) times a week to do something N times (flexibility), and check each completed time (accountability) - daily activities should be 5 checks for 7 blocks
 4. **Schedule a Little, Act a Lot**: Write all the detailed actions to be taken for the month in one day, then spend the rest of the month acting without redoing the schedule - keep track, write notes, and update the schedule intelligently next month
 5. **Use Timers and Timeboxes**: Use a timer for several reasons; alerts you for break times if you were productive, recalls you away from distractions, and can force you to deliver something rather than nothing by boxing the time to do it
