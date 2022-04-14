@@ -161,7 +161,7 @@ Start by removing the negative things from your life, and accepting that failure
 
 Start off getting your body healthy and ready (~8 hours of sleep, more water, less junk, cardio and weights), then your mind clear and focused (~10 minutes a day of meditation). With mind and body taken care of, find what makes your soul happy, have fun doing it, and let happiness create progress (and progress causes happiness, in an upwards spiral).
 
-You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work, and end the day preparing for tomorrow.
+You need a positive environment - remove temptations, remove clutter, and add some happiness. Now you can start working, and when you do, remove all distractions as you work and end the day preparing for tomorrow.
 
 Do not waste time on meaningless decisions. Accept that you can do ONE thing at a time, and schedule time to do that one thing. Keep track of how often you get it done! And remember to plan just enough to act, then act - you can update plans later, with real-world feedback. Finally, to keep yourself focused, keep a timer at the ready for chunked periods of time.
 
@@ -169,17 +169,17 @@ Whenever you are blocked, do NOT blame yourself, instead RELAX and follow these 
 
 Accept that learning from materials is great, but you must actually try out what you learned. Practice deliberately, and use timers. Always learn something at least twice - spaced out for repetition and refreshing - quantity can lead to quality!
 
-Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that work as best you can, dealing with fires as they aside (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.
+Prepare to do one thing at a time, and start with the bare minimum, most important things first. After that, work as best you can, dealing with fires as they arise (and fireproof them right away!). You can boost your performance by acting more often. And remember - work until the task is DONE, only deliveries count.
 
 Progress requires measurements. Only measure yourself against yourself. Act in small but frequent chunks and seek feedback. After some chunks are complete, make sure you are growing and not just busy. After many chunks are complete, make sure you are learning and/or earning - not churning.
 
-You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.
+You can save your energy and ignore the competition - only the customer experience matters. Deliver the right WHAT to the right WHO with the best EXECUTION (products, service, price). Once you master the what/who/execution, market heavily to grow at scale. Always admit fault and gain trust and feedback. Regularly check your worth and up your prices as the market allows.
 
 Be wary of taking advice, rarely give advice, and never trust those who talk but will not show. Asking for help and showing hard work gains mentorship. Create or find the team with the standard you want. Teams do better by committing, not consensus.
 
 Remove the idea that you must answer to others or make them happy. Learn to channel your energy inwards. Then, make friendships with people who improve you - and do not unduly burden those friends, but make them happier and better as well!
 
 ## Want to Contribute?
-I welcome all and any pull requests.
+I welcome any and all pull requests.
 But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.
 Still, you are welcome to make your suggestions via PR.
