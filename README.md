@@ -3,9 +3,7 @@
 A collection of the wisdom I have received over the years, condensed into actionable advice.
 
 ## Introduction and Document Purpose
-Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.   
-The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).  
-Not all of this advice is for everyone - that is okay! If just one thing helps you, that is great!  
+The goal of this document is to try to provide ***actionable tips*** (*meaning things you can follow without thinking about them much*).  
 If you liked this advice and wish to chat, you can always find me on twitter at [@pauljstales](https://twitter.com/pauljstales).
 
 ## Want to Share or Contribute?
