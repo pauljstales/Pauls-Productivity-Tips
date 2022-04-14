@@ -3,8 +3,7 @@
 A collection of the wisdom I have received over the years, condensed into actionable advice.
 
 ## Introduction
-Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.  
-Feel free to share this link.  
+Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.   
 If you liked this advice and wish to chat, you can always find me on twitter at [@pauljstales](https://twitter.com/pauljstales).
 
 ## Purpose of this Document
@@ -13,6 +12,10 @@ Not all of this advice is for everyone - that is okay! If just one thing helps y
 
 ## The First Piece of Advice: One Thing at a Time...
 The most important advice of all... try one thing at a time!
+
+## Want to Share or Contribute?
+You are welcome to share this link with whoever you like!  
+You are also welcome to contribute, BUT, I cannot promise any merges.
 
 ## Table of Contents
 1. [Improving your State of Mind](#improving-your-state-of-mind)
@@ -134,8 +137,3 @@ The most important advice of all... try one thing at a time!
 8. **Progress**: Make things measurable and only measure against yourself, act in small iterations and get feedback, and have quarterly check-ins to make sure you are growth, and not just busy
 9. **Business**: Focus on providing the best customer experience possible, market when you can deliver at scale, admit fault as things go wrong and fix them, and get updated information on the worth of your services
 10. **Social**: Stop giving/taking so much advice, only trust those who have delivered visibly, find mentors by showing your own work and asking the right questions, find the team and friends that make you better, and never burden your team or friends unfairly
-
-## Want to Contribute?
-I welcome any and all pull requests.
-But as a personal project first and foremost, I cannot guarantee which - if any - PRs will be accepted.
-Still, you are welcome to make your suggestions via PR.
