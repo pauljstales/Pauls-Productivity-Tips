@@ -104,8 +104,6 @@ The most important advice of all... try one thing at a time!
 3. **Do Frequent Iterations and Get Feedback**: The ultimate proof of frequent feedback is found in the survival of species; those that adjust to feedback thrive - do small actions and get frequent feedback
 4. **Aim for Growth, NOT Goals or Busyness**: Only growth matters, goals that do not cause growth need to be dropped, work that is not required maintenance is a waste of time
 5. **Examine Your Career and Know Your Worth**: You want to be learning or earning - preferably both! If you are doing neither, time to move on. Do not be afraid to interview regularly - interviewing is a skill by itself, AND, it helps you know your worth!
-6. 
-7. The best situation is to be learning skills and earning money, the worst situation is churning meaningless work and burning time - figure out where you are and act as needed
 
 ## Relationships and Communication
 
