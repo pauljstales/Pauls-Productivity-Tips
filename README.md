@@ -28,8 +28,9 @@ The most important advice of all... try one thing at a time!
     2. [Applying](#applying)
 4. [Tracking, Analysis, and Adjustments](#tracking-analysis-and-adjustments)
     1. [Personal Goals](#personal-goals)
-    2. [Professional Goals](#professional-goals)
 5. [Relationships and Communication](#relationships-and-communication)
+    1. [Personal Relationships](#personal-relationships)
+    2. [Professional Relationships](#professional-relationships)
 6. [Summary AKA the 10 Key Rules](#the-10-key-rules-summary)
 
 ## Improving your State of Mind
