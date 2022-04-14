@@ -4,13 +4,12 @@ A collection of the wisdom I have received over the years, condensed into action
 
 ## Introduction
 Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.
-I hope this helps you... and I hope it helps me! Feel free to share this link.
+Feel free to share this link.
 If you liked this advice and wish to chat, you can always find me on twitter at [@pauljstales](https://twitter.com/pauljstales).
 
 ## Purpose of this Document
 The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).
-Not all of this advice is for everyone. Some advice will be disagreeable to those who hold different values and beliefs.
-That is okay! We can disagree and remain friendly.
+Not all of this advice is for everyone - that is okay! If just one thing helps you, that is great!
 
 ## The First Piece of Advice: One Thing at a Time...
 The most important advice of all... try one thing at a time!
