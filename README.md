@@ -110,7 +110,7 @@ The most important advice of all... try one thing at a time!
 1. **You Owe Nothing, Say Nothing**: When discussions become arguments, when demands (sometimes contradictory) are made of you, remember that you owe nothing, not even a response - stay silent, move on, maintain inner peace (if you MUST respond, say “That is a good perspective”, and nothing more)
 2. **Remain Yourself**: You cannot please everyone without becoming unhappy, you cannot take all advice without losing your own thoughts and feelings; listen if you wish, but your individuality must remain
 3. **Channel Energy Inwards**: Anger and hatred would be far less if it cost money rather than just time; channel that energy into self-improvement rather than revenge
-4. **Make/Break Friendships**: Make friends with those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends with anyone who does the opposite (you are the average of your friends)
+4. **Make/Break Friendships**: Most importantly, YOU must listen (not wait to speak - listen)... then make friends with those who truly listen, are encouraging while being honest and constructive, and help you become better; break friends with anyone who does the opposite (remember - you are the average of your friends)
 5. **Stay Positive with Good Friends**: Show gratitude all the time, dump emotional burdens infrequently or as needed, and forgive minor transgressions - and expect the same towards you
 
 ### Professional Relationships
