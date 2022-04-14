@@ -2,20 +2,18 @@
 
 A collection of the wisdom I have received over the years, condensed into actionable advice.
 
-## Introduction
+## Introduction and Document Purpose
 Hello, I am Paul J Stales, and this is a huge collection of wisdom I have learned over the years.   
-If you liked this advice and wish to chat, you can always find me on twitter at [@pauljstales](https://twitter.com/pauljstales).
-
-## Purpose of this Document
 The goal of this document is to try to provide actionable tips (meaning things you can follow without thinking about them much).  
-Not all of this advice is for everyone - that is okay! If just one thing helps you, that is great!
-
-## The First Piece of Advice: One Thing at a Time...
-The most important advice of all... try one thing at a time!
+Not all of this advice is for everyone - that is okay! If just one thing helps you, that is great!  
+If you liked this advice and wish to chat, you can always find me on twitter at [@pauljstales](https://twitter.com/pauljstales).
 
 ## Want to Share or Contribute?
 You are welcome to share this link with whoever you like!  
 You are also welcome to contribute, BUT, I cannot promise any merges.
+
+## The First Piece of Advice: One Thing at a Time...
+The most important advice of all... try one thing at a time!
 
 ## Table of Contents
 1. [Improving your State of Mind](#improving-your-state-of-mind)
